@@ -57,41 +57,7 @@ ZCoder is a sophisticated web platform designed to help users track their compet
    - The application should now be running on `http://localhost:3000`.
 
 
-## Web Application Snippets
 
-
-1. Home Page<br>
-
-![home](./snippet/home.png)<br>
-
-2. Sign Up<br>
-
-![signup](./snippet/signup.png)<br>
-
-3. LogIn<br>
-
-![login](./snippet/login.png)<br>
-
-4. profile<br>
-
-![profile](./snippet/profile.png)<br>
-
-5. Edit Profile<br>
-
-![edit-profile](./snippet/edit-profile.png)<br>
-
-6. Add Problem<br>
-
-![add-problems](./snippet/add-problems.png)<br>
-
-7. Problem List<br>
-
-![your-problems](./snippet/your-problems.png)<br>
-
-
-8. Contest Calander<br>
-
-![contest-calander](./snippet/contest-calander.png)<br>
 
 
 ## Contributing
